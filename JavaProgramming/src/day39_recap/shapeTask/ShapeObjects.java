@@ -4,7 +4,7 @@ public class ShapeObjects {
 
     public static void main(String[] args) {
 
-        day39_Recap.shapeTask.Square square = new day39_Recap.shapeTask.Square(10);
+        day39_recap.shapeTask.Square square = new day39_recap.shapeTask.Square(10);
 
         System.out.println(square);
 
@@ -17,7 +17,7 @@ public class ShapeObjects {
 
         System.out.println("------------------------");
 
-        day39_Recap.shapeTask.Rectangle rectangle = new day39_Recap.shapeTask.Rectangle(5, 6);
+        day39_recap.shapeTask.Rectangle rectangle = new day39_recap.shapeTask.Rectangle(5, 6);
 
         System.out.println(rectangle);
 
@@ -31,7 +31,7 @@ public class ShapeObjects {
 
         System.out.println("------------------------");
 
-        day39_Recap.shapeTask.Circle circle = new day39_Recap.shapeTask.Circle(7.5);
+        day39_recap.shapeTask.Circle circle = new day39_recap.shapeTask.Circle(7.5);
 
         System.out.println(circle);
 

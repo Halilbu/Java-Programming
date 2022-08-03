@@ -1,6 +1,6 @@
-package day39_Recap.shapeTask;
+package day39_recap.shapeTask;
 
-public class Square extends day39_Recap.shapeTask.Shape {
+public class Square extends day39_recap.shapeTask.Shape {
 
     private double side;
 
