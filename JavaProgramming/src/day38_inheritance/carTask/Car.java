@@ -18,6 +18,9 @@ public class Car {
         this.miles = miles;
     }
 
+    public Car(String highlander, int i, int year, String white, int i1) {
+    }
+
     public void start(){
         System.out.println(brand+" "+model+" is starting");
     }
